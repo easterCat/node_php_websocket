@@ -1,0 +1,23 @@
+{
+  "name": "node_php_websocket",
+  "version": "1.0.0",
+  "description": "[简书 Socket.io](https://www.jianshu.com/p/4e80b931cdea)\r [Socket.io 官网](https://socket.io/docs/#Using-with-Node-http-server)\r [vue-socket.io](https://www.npmjs.com/package/vue-socket.io)\r [PHP+Node.js+Redis+Socket.io 实现 Web 端即时通讯（一）](https://www.jianshu.com/p/554304c98ecd)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easterCat/node_php_websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easterCat/node_php_websocket/issues"
+  },
+  "homepage": "https://github.com/easterCat/node_php_websocket#readme",
+  "dependencies": {
+    "ioredis": "^4.6.2",
+    "socket.io": "^2.2.0"
+  }
+}
